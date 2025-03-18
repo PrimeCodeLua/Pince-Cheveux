@@ -2,7 +2,7 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'LeDjo_Develloppement'
+author 'Prime'
 description 'LeDjo_Epingle_A_Cheveux'
 version '1.10.10'
 
