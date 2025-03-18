@@ -1,0 +1,6 @@
+["pincecheveux"] = {
+		label = "Pince à Cheveux",
+		weight = 5,
+		stack = true,
+		close = true,
+	},
